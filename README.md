@@ -1,7 +1,7 @@
 # 🛒 Shopping List App (Anti-Gravity UI)
 
 A simple and modern Shopping List web application built using **HTML, CSS, and JavaScript** with a clean **anti-gravity UI design**.  
-This app helps users manage daily shopping items with a smooth, minimal, and floating card interface.
+This app helps users manage daily shopping items with a smooth, minimal, and floating card interface. 
 
 ## ✨ Features
 - Add new items to the shopping list  
